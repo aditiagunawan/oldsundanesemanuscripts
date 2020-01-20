@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>-->
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="en">
   <teiHeader>
     <fileDesc>
@@ -60,18 +60,18 @@
       <ab>
 
 <pb n="1v"/>
-<lb n="1"/>// <g type="symbol" subtype="circle">Ø</g> ndəḥ saṁ hya sasana maha guru ṅaran· saṁ hya pustaka sasana ma ṅaranya Urut· nu ti həla, maḥha ma nu L̥viḥ ti L̥viḥ ti na dunya guru ma ṅarana puhun·n ikaṁ rat· kabeḥ hana Upadyinta
-<lb n="2"/>kadyiganiṁ maniK kanaṙga lavan· maniK savesṭā yeka puhun:iṁ suka duka hala ha <space type="binding-hole"/> yu  byaktanya nihan· <g type="symbol" subtype="circle">Ø</g> bvaḥ paksa huniṁ tmən· daEK mva kapalaṁ kaliṅanya bvaḥ ma saṁ hya prati-
-<lb n="3" break="no"/>vi basana dipahayu diturunkə· ditaEkən· dicamaḥhan· dicampuṙran· hantə su <space type="binding-hole"/>  sut· hantə puduṁ hantə gəraḥ hantə bijaḥ kədədəṁ dəṅ laṁgəṁ ṅavaKkan· na kaprativian· I-
+<lb n="1"/>// <g type="symbol" subtype="tennisball">Ø</g> ndəḥ saṁ hya sasana maha guru ṅaran· saṁ hya pustaka sasana ma ṅaranya Urut· nu ti həla, maḥha ma nu L̥viḥ ti L̥viḥ ti na dunya guru ma ṅarana puhun·n ikaṁ rat· kabeḥ hana Upadyinta
+<lb n="2"/>kadyiganiṁ manik· kanaṙga lavan· manik· savesṭā yeka puhun:iṁ suka duka hala ha <space type="binding-hole"/> yu  byaktanya nihan· <g type="symbol" subtype="tennisball">Ø</g> bvaḥ paksa huniṁ tmən· daEk· mva kapalaṁ kaliṅanya bvaḥ ma saṁ hya prati-
+<lb n="3" break="no"/>vi basana dipahayu diturunkə· ditaEkən· dicamaḥhan· dicampuṙran· hantə su <space type="binding-hole"/>  sut· hantə puduṁ hantə gəraḥ hantə bijaḥ kədədəṁ dəṅ laṁgəṁ ṅavak·kan· na kaprativian· I-
 <lb n="4" break="no"/> ya keḥ Eta na Avak:anən· saṁ sevaka daṙma paksa ma caI AlaƏn·nana ma basana bijiḥl· ti huluna teka bvaṙ heraṁ tiIs· rasna gəs ma hantə kavuruṅan·, təka ri sagara sa-
 
 <!--DSCF8780-->
 <pb n="2r"/>
 <lb n="1" break="no"/> kitu na turut:anən· saṁ sevaka daṙma huniṁ ma ṅaran· Aṅin· AlaƏnana ma basana mtu ti barat· teka hiṙ tiIs· L̥L̥s dataṁna ka <app><lem>Avak Uraṁ</lem></app>, gas ma hantə kavu<add place="below">ru</add>ṅana-
-       <!-- 2r.1 note: Avak Uraṁ : aksara U diletakkan dalam posisi pasangan aksara K.-->
+       <!-- 2r.1 note: Avak Uraṁ : aksara U diletakkan dalam posisi pasangan aksara k·.-->
 <lb n="2" break="no"/>n·, basana bijil· mədəṁ di bvana, sakitu <add place="below">na</add> turut:anən·, ku saṁ sevaka daṙma, tmə <space type="binding-hole"/> n· ta ma ṅaran:iṅ Apuy·, dəṁṅən· gagaman·, ti Iña Eta dipipakən·nakən· ku nu
-<lb n="3"/> rye, ku gəI na təmən·, daEK, Eka ma ṅaranya, saṁ hyaṅ adityi, basana mtu ti<del>bvana</del> <space type="binding-hole"/> vetan·,hantə kavuruṁṅanan·, ku mega ku hujan·, kukus· ku saṁhub·, təka ri ku      
-<lb n="4" break="no"/>lvan·, ku gəI Eka laKsana, kitu keḥ na turut:anən·, ku saṁ sevaka daṙma, mulaḥ mva Iyatna yatna di saṁ hya pasaṁka<add place="below">na</add>n·, nihan· sinaguḥ pañcavedani ṅaranya, pañca
+<lb n="3"/> rye, ku gəI na təmən·, daEk·, Eka ma ṅaranya, saṁ hyaṅ adityi, basana mtu ti<del>bvana</del> <space type="binding-hole"/> vetan·,hantə kavuruṁṅanan·, ku mega ku hujan·, kukus· ku saṁhub·, təka ri ku      
+<lb n="4" break="no"/>lvan·, ku gəI Eka lak·sana, kitu keḥ na turut:anən·, ku saṁ sevaka daṙma, mulaḥ mva Iyatna yatna di saṁ hya pasaṁka<add place="below">na</add>n·, nihan· sinaguḥ pañcavedani ṅaranya, pañca
 
 <!--DSCF8823-->
 <pb n="2v"/> <!--page in sundanese to be search in the guideline [1]-->
@@ -84,21 +84,21 @@
 <pb n="3r"/>
 <lb n="1"/>Ayaḥ paṁguruAn·, mulaḥ mva make caṁcuta paṁṅaduA, sugan· Uraṁ pajəƏṁ dəṁ gusti dəṁ man·tri, mulaḥ mva ṅidal·, paṁṅadvakvakvakən·, ya siksa kadaṁ ṅaranya,siksa kuruṁ ma, sa
 <lb n="2" break="no"/>kaṙma dəṁ saṁ panta, Agəs ma hantə ṅənaḥ ṅaR̥səḥ bənaṁ dihəƏm·, ṅarum·pak saṁ <space type="binding-hole"/> hya siksa, lamun· Agəs· ñahva di vuku vuku di na L̥kəṙ L̥kəṙ, daṁda daṁdi sipat· ga
-<lb n="3" break="no"/>L̥ṁ, paṁgurattən·, paṁguritan·, paṁvaL̥ṙran·, paṁvatəsan·, satapaK <space type="binding-hole"/> hya brama visnu, basa ṅavatəsan· bvana, ya ta siksa kuruṁ ṅaranya, na <!-- article na stand in the begining of phrase -->sik·sa dapuṙ ma ṅara
-<lb n="3" break="no"/>na, ṅadapətkən· puhun·, ṅahusiṙ taṁkal· ku gəi na bak·ti satyi, di saṁ pandata, ya siKsa dapuṙ ṅarana, nihan· sinaṁguḥ siKsa kandaṁ ṅaranya liṁ maḥhapandata,<g type="symbol">Ø</g>niha
+<lb n="3" break="no"/>L̥ṁ, paṁgurattən·, paṁguritan·, paṁvaL̥ṙran·, paṁvatəsan·, satapak· <space type="binding-hole"/> hya brama visnu, basa ṅavatəsan· bvana, ya ta siksa kuruṁ ṅaranya, na <!-- article na stand in the begining of phrase -->sik·sa dapuṙ ma ṅara
+<lb n="3" break="no"/>na, ṅadapətkən· puhun·, ṅahusiṙ taṁkal· ku gəi na bak·ti satyi, di saṁ pandata, ya sik·sa dapuṙ ṅarana, nihan· sinaṁguḥ sik·sa kandaṁ ṅaranya liṁ maḥhapandata,<g type="symbol">Ø</g>niha
 
 <!-- DSCF8822 -->
         <!-- page number original [2] -->
 <pb n="3v"/>
 <fw type="pageNum" place="left margin" n="3v"><num value="2">2</num></fw>
 <lb n="1" break="no"/>n· kayatnayatna saṁ se<del rend="erasure">ka</del>vaka daṙma, pavuitan· saṁ hya sasṭā, mala muṙtinya ṅuni, katəkan· maṅke, ndaḥ ta pavuitan· saṁ hya sasṭā,nihan· lvaṙnya, sasurup· saṁ hya srivaṙr adi
-<lb n="2" break="no"/>tyi, gumənti saṁ hya ratsi, trə<!-- rare case of use -rə instead of R̥ -->p·ti trəp·tva pagave veva laKsana, tatva ka <space type="binding-hole"></space>la batari duṙgi,AR̥gu ta janṭā sra batara gana, sinaburat:akən· ri manusa madyipada, matə
+<lb n="2" break="no"/>tyi, gumənti saṁ hya ratsi, trə<!-- rare case of use -rə instead of R̥ -->p·ti trəp·tva pagave veva lak·sana, tatva ka <space type="binding-hole"></space>la batari duṙgi,AR̥gu ta janṭā sra batara gana, sinaburat:akən· ri manusa madyipada, matə
 <lb n="3" break="no"/>mahan· ta ya gəbaṁ lavan· lvataṙ, tipuk· divas·sa pupus· gəbaṁ lavan· <space type="binding-hole"></space> lvataṙ, tinut· pinada pada, lvane lavan· davane,tinitisan· Asta gaṁga vira tanu, A
 <lb n="4" break="no"/>pa ta sinaṁguḥ gaṁga vira tanu, Asta ṅaraniṁ taṁṅan·, gaṁga ṅaraniṁ bañu, vi<del rend="erasure">ra</del>ra ta ṅaraniṁ <del rend="erasure">ta</del> parurat· lavan<unclear>·pa</unclear>nuli, tanu ṅaraniṁm aṁsi, tinulis<unclear> d</unclear>e sa<unclear>ṁ</unclear> pandita, pinaca de saṁṅ apuṁguṁ
         
 <!-- DSCF8781 -->
 <pb n="4r"/>
-<lb n="1"/>tambaḥ Uni<add place="below">Uni</add>ne, vinaL̥ran· de saṁ kavi, ṅuniveḥ cinaritakən ta dasapuṙva <g type="symbol" subtype="circle">Ø</g> Oṁ svarasvati tarajñana cintamaniK, kaluna mataniṁ bayu, pamutyan· batara guru, batara saṁ sida panta
+<lb n="1"/>tambaḥ Uni<add place="below">Uni</add>ne, vinaL̥ran· de saṁ kavi, ṅuniveḥ cinaritakən ta dasapuṙva <g type="symbol" subtype="tennisball">Ø</g> Oṁ svarasvati tarajñana cintamanik·, kaluna mataniṁ bayu, pamutyan· batara guru, batara saṁ sida panta
 <lb n="2"/>tita ri L̥maḥ, saṁ sida pandata tita riṁ laṁṅit·, kusika gaṙga mestri purusyi <space type="binding-hole"/> patajala, mvaṁ bayu sabda hdap·, ṅuniveḥ Ikaṁ saṁ manvan·, <add place="below">A</add>pan· saṁ hya Ituṁ Ika, nihan· 
 <lb n="3"/>sinaṁguḥ dasapuṙvva ṅaranya, dasa ta ma nu sapuluḥ, puvva ma na puhun·, kayatnakə <!-- bentuk ligatur tnakə perlu dicatat, graphem kə, unsur konsonan k di kiri menempel bersama ta--> <space type="binding-hole"/> n· saṁ sevaka daṙma, liṁ saṁ pandata <g type="symbol" subtype="zero">Ø</g>R̥p dəm: anuvaḥtakən·, samjəl·nikaṁ carita, humnəṁ na rasa
 <lb n="4"/>saṁ hya tuṁgal· na naha nu dimanṭāAn· Eta, Aḥ kena karaḥ AI ñahva dek· mjil·kən· Aksaṙra, sasṭā muṁgu di na Omas·, sasṭā mugu riṁ salaka, saṭā mugu riṁ tabaga, saṭā mu
@@ -113,9 +113,9 @@
 
 <!-- DSF8831 -->
 <pb n="5r"/>
-<lb n="1" break="no"/>n· ta ya L̥piḥhan·, suI ditdən· diña bisina biki vahya, diturunkən· dəI, saṭā mugu riṁ taAl·,diṅaranantayacariK, Aya Eta mənaṁ Utama, kena na lain· pikabuyutan·nən·,diturun·
+<lb n="1" break="no"/>n· ta ya L̥piḥhan·, suI ditdən· diña bisina biki vahya, diturunkən· dəI, saṭā mugu riṁ taAl·,diṅaranantayacarik·, Aya Eta mənaṁ Utama, kena na lain· pikabuyutan·nən·,diturun·
 <lb n="2" break="no"/>kən· dəI, saṭā mugu riṁ gəbaṁ, diṅaranan ta ya cəməṁ, Ini ma Iña pikabuyuttanən·, ṅaran:a <space type="binding-hole"/> saṁ hya ripta, ya sunya, ya L̥pihan·, ya masṭā, ya lepva ka:ṙrana, Iya pustaka katuṁgal·lan·
-<lb n="3" break="no"/>nana, nihan·siguḥ dasavrədi ṅaranya <g type="symbol">Ø</g> carekna saṁ hya tugal·, na naha piəṁna:na, saṁ <space type="binding-hole"/> hya pustaka Ini, kena karaḥ AIṁ deK ṅabjal·kən· carita, mə<add place="below">tu</add>na saṁ hya siksa guru, ti saṁ
+<lb n="3" break="no"/>nana, nihan·siguḥ dasavrədi ṅaranya <g type="symbol">Ø</g> carekna saṁ hya tugal·, na naha piəṁna:na, saṁ <space type="binding-hole"/> hya pustaka Ini, kena karaḥ AIṁ dek· ṅabjal·kən· carita, mə<add place="below">tu</add>na saṁ hya siksa guru, ti saṁ
 <lb n="4"/>hya siksa, ndəḥ nihan· saṁ hya trikaya madala parisuda ṅaranya, trika <g type="symbol">Ø</g> Ini ma na tim·pal·kənən·, mulaḥ dek mətəmən· Iña saṁ sevaka daṙma, na puhun· Avaḥ Avuḥ, taṁkalniṁ
 
 
@@ -124,14 +124,14 @@
 <fw type="pageNum" place="left margin" n="5v"><num value="4">4</num></fw>
 <lb n="1"/>papa lesa, vvitniṁ kaliyuga, hetuniṁ papaniṁ raka, ṅarana, trimala, guna, nihan· lvaṙnya, Ika sinaṁguḥ trimala ṅaranyi, kadyiganiṁ gaṁsa lavan· malam·, tambaga lavan· timaḥ, Apa ta ya
 <lb n="2" break="no"/>kən· tambaga lavan· timaḥ, niṁkaṁ tridus·ta, Ulaḥ tan·yukti, Ambhək· tan· yu<space type="binding-hole"/>kti, ginavay·yakən· sabda mahala, Ulaḥ mahala, Ambək mahala,Ini byiktana, Ulaḥ maḥhala
-<lb n="3"/>nvatvaK mvakval·, nəvəK məR̥p·, ṅadədəl·, nvajvaK ñaketrva, nam=paṙ <!-- note ligature mp --> napelaṁ, sakvaḥ<space type="binding-hole"/>niṁ L̥kas· taṅan·, ya Ulaḥ mahala,ṅaranyi, sabda mahala ṅarana, tvaroṁ gasvaṁ tan· pakarana, camp<unclear>ə</unclear>
-<lb n="4" break="no"/>K· sabda, ñum=paḥ madaḥkən·, ṅadudu nəluḥ ṅupat· guru, sakvaḥniṁ sabda tan· yukti, ya sabda maḥhala ṅaranyi, AmbhəK maḥhala ma ṅaranyi, kira-kira budi-budi,ṅajərum· ṅagunaAn·, mijahəta
+<lb n="3"/>nvatvak· mvakval·, nəvək· məR̥p·, ṅadədəl·, nvajvak· ñaketrva, nam=paṙ <!-- note ligature mp --> napelaṁ, sakvaḥ<space type="binding-hole"/>niṁ L̥kas· taṅan·, ya Ulaḥ mahala,ṅaranyi, sabda mahala ṅarana, tvaroṁ gasvaṁ tan· pakarana, camp<unclear>ə</unclear>
+<lb n="4" break="no"/>k·· sabda, ñum=paḥ madaḥkən·, ṅadudu nəluḥ ṅupat· guru, sakvaḥniṁ sabda tan· yukti, ya sabda maḥhala ṅaranyi, Ambhək· maḥhala ma ṅaranyi, kira-kira budi-budi,ṅajərum· ṅagunaAn·, mijahəta
 
 <!-- DSF8830-->
 <pb n="6r"/>
 <lb n="1" break="no"/>tan·, ṅaniluḥ, ṅaracun·, hiri payvag·ya, Agəs ma num=pu maliṁ papajiṅana meOṙ ṅahadaṁ, siṁ savatək· <!-- k without stroke above--> tan· yvagya, dipitvaḥ dipihdap, ya Eta Ambhə maḥhala, ya ta sinaṁguḥ trima
 <lb n="2" break="no"/>la ṅaranya <g type="symbol">Ø</g> nihan· sinaṁguḥ trimala visesa, ṅaranya, hana ya di saṁ prabu, rama R̥si<space type="binding-hole"/>mvaṁ taraḥhan,Ini byaktana, Aya ta kajəƏṁ nu duka, dijuAl· dihulun:akən·, diram=pas·
-<lb n="3"/>dipiḥEḥhan, ya ta sinaṁguḥ pañca kapataKka ṅaranya, sinaṁguḥ trima visesa ṅa<space type="binding-hole"/>ranya, liṁ saṁ pandita,L̥, <g type="symbol">Ø</g>nihan· muvaḥ kayatna-yatnakna saṁ sevaka daṙma, Ana ta dasa kalesa
+<lb n="3"/>dipiḥEḥhan, ya ta sinaṁguḥ pañca kapatak·ka ṅaranya, sinaṁguḥ trima visesa ṅa<space type="binding-hole"/>ranya, liṁ saṁ pandita,L̥, <g type="symbol">Ø</g>nihan· muvaḥ kayatna-yatnakna saṁ sevaka daṙma, Ana ta dasa kalesa
 <lb n="4"/>ṅaranyi, Apa byaktanya, nihan· silokanyi, ndiḥ nihan· yuktinya vigataḥ kəlesa seman·, vigataḥ mala duknə, kuṙvanti kusala mahat·, kavənaṁṅatakita sumidakən· ta dasakal
 <!-- On Trimala, cf. sutasoma, Canto 22
 
@@ -142,7 +142,7 @@ pĕjah ta ya muvah narendrasuta mantuk iṅ amara jinendra sātmaka.
 	1a H. nya yan matapa.
 
 !Translation¡1. So after he had his fill of [worldly] life, he withdrew to the mountain to strive for the goal of life, no longer subject to the power of the three kinds of faults and with the sixfold enemy extinguished in his heart. After completing twenty-five years of long exercises in the discipline of serenity, he died, and became a god, united with the king of the Jinas.
- also Saṅ Hyaṅ KamahayananSaiva, -->
+ also Saṅ Hyaṅ k·amahayananSaiva, -->
         
 <!-- DSF8787 -->
 <pb n="6v"/>
@@ -150,37 +150,37 @@ pĕjah ta ya muvah narendrasuta mantuk iṅ amara jinendra sātmaka.
 <lb n="1"/>lesa, yan dataṁ ri kita, nyi dvasa mvaha, lvaba, məta, macaṙrya, Ambhimana, muṙka, kuhaka, sabimana, prəlapa, pesuna, <g type="symbol">Ø</g> ka, dvasa ṅaranyi puji puji suka,puji vihikan·, puji puji paryi, ya ta sinaṁguḥ
 <lb n="2"/>dosa, ṅa, mvaha ṅaranya, tan· siḥ ri padanya jan·ma, dəmbha ṅaranya, bəki ñatu, bəki ṅi<space type="binding-hole"></space>num·, bvagvaḥ heEs·, hantə  dek mitinəṁkən· piram=pesən·, ya ta sinaṁguḥm <add place="below">d</add>im·ba ṅaranya, ry
 <lb n="3" break="no"/>e nu dipitinəṁ, dipituAḥ, dipikaṙma, Iya lvaba ṅaranya, məta ṅaranya, teka Ivuḥ ku<space type="binding-hole"></space>kabəhaṙranana, Ivuḥ kavijak·sanaAn·nana,Ivuḥ kukagunaAn:ana, Ivuḥ ku kañahvana
-<lb n="4"/>ya ta siniṁguḥ məta ṅaranya, macaṙryi tim·buruan· manva rahayu, ñəƏṁ nu <add place="below">ra</add>mpes· tim·buru, ñəƏṁ nu suka tim·buru, ya ta mañcanyi ṅaranya,Ambhimana ṅaranya, hamva deK ñi
+<lb n="4"/>ya ta siniṁguḥ məta ṅaranya, macaṙryi tim·buruan· manva rahayu, ñəƏṁ nu <add place="below">ra</add>mpes· tim·buru, ñəƏṁ nu suka tim·buru, ya ta mañcanyi ṅaranya,Ambhimana ṅaranya, hamva dek· ñi
 
 <!-- DSF8829 -->
 <pb n="7r"/>
-<lb n="1"/>sa mitutuṙ, ya Ambhəmana ṅaranya, muṙka ṅaranya, hantə deK nututuṙkən· Iduṁ bapa, paṁguruAn·, ya ta sinaṁguḥ maṙka ṅaranya, kuhaka ṅaranya, Añəguḥ pagaməl· nu rye,sabina prəlapa ma
+<lb n="1"/>sa mitutuṙ, ya Ambhəmana ṅaranya, muṙka ṅaranya, hantə dek· nututuṙkən· Iduṁ bapa, paṁguruAn·, ya ta sinaṁguḥ maṙka ṅaranya, kuhaka ṅaranya, Añəguḥ pagaməl· nu rye,sabina prəlapa ma
 <lb n="2"/>ṅamaṁke-maṁke di na bvaganiṁ ṅabvaga, di na bəhaṙniṁ kabəhaṙnan·, ya ta sambhina prə<space type="binding-hole"></space>lapa ṅaranya, pesuna ṅaranya, bvagvaḥ tim·buruAn·, bvagvaḥ mijəruman·, Aṅadu-ṅadu, ya ta
 <lb n="3"/>sinaṁguḥ dasakalesa ṅaranya <g type="symbol">Ø</g> nihan· ta muvaḥ sinaṁguḥ dasamala ṅaranya, nihan·<space type="binding-hole"></space>silvakanya,vigataḥ maladaknəḥ, kuṙvanti kusalaḥmaḥhat· gavay·yakən sutəm citəm·
-<lb n="4"/>budihiyəm· maguḥ narakəm·, <g type="symbol">Ø</g> ka, naṁ ṅata kari kita sami bataṁ mara kaṙma, yan dataṁ ri kita, marag·kaṙma, ṅaranya, sukta, baya, tin·dri, kaledra, ragas·tri, paladaraḥ, baK
+<lb n="4"/>budihiyəm· maguḥ narakəm·, <g type="symbol">Ø</g> ka, naṁ ṅata kari kita sami bataṁ mara kaṙma, yan dataṁ ri kita, marag·kaṙma, ṅaranya, sukta, baya, tin·dri, kaledra, ragas·tri, paladaraḥ, bak·
 <!-- <Slo84j§2> nihan ambək daśa mala ṅa | tan yogya ulahakna | lvirnya | tandrī | kleda | ləja | kuhaka | metraya | məgata | rāga strī | kuṭila | bhakṣabhuvana | [kimburu] || tandrī ṅa vvaṅ suṅkanān | ləson baləbəh səmpənəh adoh iṅ rahayu | aṅhiṅ hala juga kaharəpnya || kleda ṅa ambək aṅələmələm | meraṅan mariṅ harəp | tan katəkan pinakṣanya || ləja ṅa ambək tamah | agə̄ṅ tṛṣṇā | agə̄ṅ lulut asih | mariṅ hala || kuṭila ṅa parachidra | pesta peda riṅ kavəlas asih | pramāda pracale | nor ana vvaṅ den keriṅi || kuhaka ṅa ambək krodha | agə̄ṅ runtik | capalaśabda | baṅgaporaka || metraya ṅa bisāgave ujar mahala | sikaradumikara | vivikiviveka | sapa kadi sira | botārṣā rabiniṅ arabi | tan hana ulahnya rahayu | yan mətu śabdanyārūm amanis aṅhiṅ hala ri daləm | tan papilih buddhi cavuh | kāla ri hatinya | purikan || rāgastrī ṅa bahud lañji vavadonən | rambaṅ panon | bhakṣabhuvana aṇḍəṇḍa sasamaniṅ tumuvuh | akirya riṅ vvaṅ sādhu | ardeṅ paṅan inum | haṅkāra śabda prəṅkaṅ || kimburu ṅa aṅhiṅ gavene akiryakirya drəveniṅ vvaṅ sādhu | tan papilih | nor kadaṅ sānak mitra | yata memet drəveniṅ saṅ viku || maṅkana kramaniṅ daśa mala | tan rahayu ||
  -->
         <!-- DSF8786 -->
 <pb n="7v"/>
 <fw type="pageNum" place="left margin" n="7v"><num value="6">6</num></fw>
 <lb n="1" break="no"/>syi bvaj·ñana, kutila, vivedeka, <g type="symbol">Ø</g>, ka, sukta ṅaranya, bəki heEs·, kalipikin· mitañakən· piram=pesən·, dəṁṅən· na piutamaƏn·na na svaraṁṅan,kalipiAn·, miguna na ṅənaḥ ti
-<lb n="2" break="no"/>nəṁ, dəṁ micarek· na rampes· di nu rye, ya ta siniguḥ sukta ṅaranya, baya ṅaranya, bvaraṁ mita<space type="binding-hole"></space>ñakən· maneḥ,bvaraṁ naña ja ṅasara maneḥ kvalvat bvaraṁ micareK na ram=pes· <!-- every occurence of MP, the taling is placed below the aksara -->, ya ta baya ṅaranya
+<lb n="2" break="no"/>nəṁ, dəṁ micarek· na rampes· di nu rye, ya ta siniguḥ sukta ṅaranya, baya ṅaranya, bvaraṁ mita<space type="binding-hole"></space>ñakən· maneḥ,bvaraṁ naña ja ṅasara maneḥ kvalvat bvaraṁ micarek· na ram=pes· <!-- every occurence of MP, the taling is placed below the aksara -->, ya ta baya ṅaranya
 <lb n="3"/>tan·dri ṅaranya, mumulan· naña ja ṅarasa maneḥ IR̥g·, mumul· miguna na ṅənaḥ hdap· dəṁṅə<space type="binding-hole"/>n· micarek na ram=pes· ka nu rye,ya t:an·dri ṅaranya, kaleda ṅaranya, takut· miguna na ṅənaḥ ti<unclear>h</unclear>nəṁ
-<lb n="4"/>ka nu rye, takut· mitañakən· maneḥ, ya tan·dri ṅaranya, laña ṅaranya, supən· naña ja ṅarasa maneḥ IR̥g·, supən· baKti ja ṅarasa maneḥ kvalvat, supən· baKti ja ṅarasa maneḥ bəhaṙ
+<lb n="4"/>ka nu rye, takut· mitañakən· maneḥ, ya tan·dri ṅaranya, laña ṅaranya, supən· naña ja ṅarasa maneḥ IR̥g·, supən· bak·ti ja ṅarasa maneḥ kvalvat, supən· bak·ti ja ṅarasa maneḥ bəhaṙ
 
 <!-- DSF8828 -->
 <pb n="8r"/>
-<lb n="1"/>ta laña ṅaranya, ragas·tri ṅaranya, bvagvaḥ deK suka svanita dəṅ hayaṁ deK bəhaṙ, ragas·tri ṅaranya, paladaraḥ ṅaranya, hayaṁ di rara hulan·jaṙ, As·tri laraṁṅan· sakaliḥ,ya paladaraḥ ṅara
-<lb n="2"/>nya, baKsyi bvañana ṅaranya, tan· hana magavay· hayu, ya bvañana, ṅa, bvagvaḥ ña<space type="binding-hole"/>tu, bvagvaḥ ṅinum·, dəṁ hjə kena kabikina dituvuk:an· na sadrasa, ya ta baKsyi bvañana ṅara
-<lb n="3" break="no"/>nya, kutila viveka ṅaranya, dimaṁke maṁke deK miguna na ṅinaḥ hdap· dəṁṅən· micare<space type="binding-hole"/>K na rampes ka nu rye, ya ta sinaṁguḥ dasamala ṅaranya, liṁ saṁ pandita, <g type="symbol">Ø</g>, nihan· ta muvaḥ sinaṁguḥ
+<lb n="1"/>ta laña ṅaranya, ragas·tri ṅaranya, bvagvaḥ dek· suka svanita dəṅ hayaṁ dek· bəhaṙ, ragas·tri ṅaranya, paladaraḥ ṅaranya, hayaṁ di rara hulan·jaṙ, As·tri laraṁṅan· sakaliḥ,ya paladaraḥ ṅara
+<lb n="2"/>nya, bak·syi bvañana ṅaranya, tan· hana magavay· hayu, ya bvañana, ṅa, bvagvaḥ ña<space type="binding-hole"/>tu, bvagvaḥ ṅinum·, dəṁ hjə kena kabikina dituvuk:an· na sadrasa, ya ta bak·syi bvañana ṅara
+<lb n="3" break="no"/>nya, kutila viveka ṅaranya, dimaṁke maṁke dek· miguna na ṅinaḥ hdap· dəṁṅən· micare<space type="binding-hole"/>k· na rampes ka nu rye, ya ta sinaṁguḥ dasamala ṅaranya, liṁ saṁ pandita, <g type="symbol">Ø</g>, nihan· ta muvaḥ sinaṁguḥ
 <lb n="4"/>dasanaka, ṅa, Ini byaktana, cəli mata, Iruṁ letaḥ suṁṅut·, kulit·, L̥ṁṅən·, payu, purusa, suku <g type="symbol">Ø</g> ka, cəli ṅarana, mulaḥ salaḥ deṅe,tereḥvaṁvaṁ<add place="below">ka</add>piR̥ṁṅə, byaktanya ha
 
 <!-- DSF8785 -->
 <pb n="8v"/>
 <fw type="pageNum" place="left margin" n="8v"><num value="7">7</num></fw>
-<lb n="1" break="no"/>vaṙ cvaṅe, tvareK cadaṁ, sakitu pipapaƏn·nana, di na taliṅa, mata ṅarana, mulaḥ sajəƏṁ jəƏṁṅəna, lamun· ka hulajaṙ sakaliḥ, As·tri laraṁṅan· sakaliḥ,lamun· laI bvaga Uraṁ, byaktana ma
-<lb n="2"/>pecaK bvalvar putikən·, ceaṁ, buta lva2ṁṅən·, mata kvatvakən· bilas· susu<space type="binding-hole"/>hən·, sakitu pipapaƏn·nana, di mata, Iruṁ ma ṅarana,gəra bvagvaḥ saAbə-Abəna, lamun·
-<lb n="3"/>ṅambhə <del rend="erasure">ka</del> biUK hapəK ku biUK ku hañiṙ, ku haṅit·, teka dipake bumaR̥sin·<space type="binding-hole"/> ṅahubus·, byaktana ma,meKmeK sakitu pipapaƏn·nana di na Iruṁ, letaḥ ma ṅarasa, gəra
+<lb n="1" break="no"/>vaṙ cvaṅe, tvarek· cadaṁ, sakitu pipapaƏn·nana, di na taliṅa, mata ṅarana, mulaḥ sajəƏṁ jəƏṁṅəna, lamun· ka hulajaṙ sakaliḥ, As·tri laraṁṅan· sakaliḥ,lamun· laI bvaga Uraṁ, byaktana ma
+<lb n="2"/>pecak· bvalvar putikən·, ceaṁ, buta lva2ṁṅən·, mata kvatvakən· bilas· susu<space type="binding-hole"/>hən·, sakitu pipapaƏn·nana, di mata, Iruṁ ma ṅarana,gəra bvagvaḥ saAbə-Abəna, lamun·
+<lb n="3"/>ṅambhə <del rend="erasure">ka</del> biUk· hapək· ku biUk· ku hañiṙ, ku haṅit·, teka dipake bumaR̥sin·<space type="binding-hole"/> ṅahubus·, byaktana ma,mek·mek· sakitu pipapaƏn·nana di na Iruṁ, letaḥ ma ṅarasa, gəra
 <lb n="4"/>bvagvaḥ sarasa-rasana, lamun· ku bira ku tiIs·, ku bacin·, ku hasim· ku lada, ku paṁset· teka dipake Usuḥ-Asaḥhan·, byaktana ma, piR̥, petal· cadel, sakitu
 
 <!-- DSF8827 -->
@@ -188,35 +188,38 @@ pĕjah ta ya muvah narendrasuta mantuk iṅ amara jinendra sātmaka.
 <lb n="1"/>pipaƏnana, di letaḥ ṅarana, suṁṅat ma ṅarana, bvagvaḥ dipake kumapaṁ-kapaṁ, heṁṅan· dipake sacarek-carekna, maṁka ṅuni dipake ñum=paḥ madaḥkən·, ṅajak ṅapus· ka sakaliḥ,
 <lb n="2"/>byakta<del rend="erasure">ta</del>na ma, <add place="below">so</add>beṁ(<del>b·</del>)· beṁṅva dəda, sakitu pipapaənana, disuṅt·, kulit· <space type="binding-hole"/>ma ṅarana, bvagvaḥ saprasa-prasana, lamun· ku panas· ku tiIs·, ku meraṁ ku Atəl, dipa
 <lb n="3" break="no"/>ke gulaṁgasehan·, byaktana ma, tibaṙ, bisul·, bvalvaṁṅən, radaṁ, kuris· be<space type="binding-hole"/>Aṁ, saUkaṙ balas· galigata, sakitu pipapaƏnana, di kulit·,L̥ṁṅən· ma ṅarana
-<lb n="4"/>bvagvaḥ dipake sa<add place="below">co</add>kot·-cokvatna, maṁṅuni bvaga sakaliḥ, ka tatanəman·sakaliḥ, sañaraḥ dipake məR̥p nəvək·, nvatvaK mvakval·, nam=paṙ,ṅajambhaK, ñivit· ṅa
+<lb n="4"/>bvagvaḥ dipake sa<add place="below">co</add>kot·-cokvatna, maṁṅuni bvaga sakaliḥ, ka tatanəman·sakaliḥ, sañaraḥ dipake məR̥p nəvək·, nvatvak· mvakval·, nam=paṙ,ṅajambhak·, ñivit· ṅa
 
 <!-- DSCF8784 -->
 <pb n="9v"/>
 <fw type="pageNum" place="left margin" n="9v"><num value="8">8</num></fw>
 <lb n="1"/>gətil·, byaktana ma, keked· repeṁ, butuṁ, kəṁkəṅ, sakitu pipapaƏnana, di na L̥ṁṅən·, tumbhuṁ ṅarana, bvagvaḥ sahətut· hətutna, ṅisiṁ sagəsan· gəsan·na, di pigiṙ Imaḥ sakaliḥ
-<lb n="2"/>sañaraḥ dipake muAK, byaktana, kabəratan·, tujupañcar, kaliṁsiṙ, UIR̥n·, sa<space type="binding-hole"/>kitu pipapaƏnana, di tumbbhuṁ, purusa ma ṅarana, bvagvah <add place="below">sa</add>kiIḥ kiIna, sañaraḥ tu dipake ṅa
-<lb n="3" break="no"/>m·baḥ lanaṁ vadvan·, papajiṁṅan·, kapiAdi kapilañcəK, kapisuAn·, kapvanaK<space type="binding-hole"/>kan, byaktana ma, burut· petvat, lañjva, hacaṁ visaya, pəluḥ, sakitu pipapaƏ
-<lb n="4" break="no"/>nana, di rusa ṅarana, suku ta ma ṅarana, bvagvaḥ dipake saticaK ticaKna, saL̥m=paṁ L̥m=paṁna, maṁkaṅuni lamun· ṅaleṙ ṅidul· ṅulvan· ṅetan·, lamun· titarum tipagut·, tu<add place="below">lu</add>y·
+<lb n="2"/>sañaraḥ dipake muAk·, byaktana, kabəratan·, tujupañcar, kaliṁsiṙ, UIR̥n·, sa<space type="binding-hole"/>kitu pipapaƏnana, di tumbbhuṁ, purusa ma ṅarana, bvagvah <add place="below">sa</add>kiIḥ kiIna, sañaraḥ tu dipake ṅa
+<lb n="3" break="no"/>m·baḥ lanaṁ vadvan·, papajiṁṅan·, kapiAdi kapilañcək·, kapisuAn·, kapvanak·<space type="binding-hole"/>kan, byaktana ma, burut· petvat, lañjva, hacaṁ visaya, pəluḥ, sakitu pipapaƏ
+<lb n="4" break="no"/>nana, di rusa ṅarana, suku ta ma ṅarana, bvagvaḥ dipake saticak· ticak·na, saL̥m=paṁ L̥m=paṁna, maṁkaṅuni lamun· ṅaleṙ ṅidul· ṅulvan· ṅetan·, lamun· titarum tipagut·, tu<add place="below">lu</add>y·
 
 <!-- DSCF8826 -->
 <pb n="10r"/>        
 <lb n="1"/>dipake nejeḥ, byaktana ma, lisuḥ patəḥ, Añjiṁṅən· caniṙran·,sakitu pipapaƏnana, di suku ṅaranyi, nihan siṁguḥ dasanaraka ṅaranya, kayatnakəna saṁ sevaka daṙma, hayuA pini
 <lb n="2" break="no"/>n·tuhu Ika, <g type="symbol">Ø</g>nihan· sinaṁguḥ pañca Iyatna ṅaranya ndiḥya <!-- after ḥ is y in form of pasangan--> nihan· silvakanyi<space type="binding-hole"/>Akva2dva guru suci Amaralagavamə·, hana pramadasvate, nayimaḥpari ri kita, <g type="symbol">Ø</g> ka,
 <lb n="3"/>Akva2dva ṅaranyi, tan· dadi Ikaṁ <add place="below">sa</add>ṁ sevaka daṙma, mitvan·nakən· kva2danyan iṁ haR̥<space type="binding-hole"/>pən· saṁ matuha, maṁkaṅuni di nu rye, Aralagavəg· ṅaranya, teka sumari sumaR̥m=baḥ, han·tə
-<lb n="4"/>ṅənaḥ basa ñatu basa ṅinum·, di haR̥pən· saṁ pandita, Ahanaprəmadasvate ṅaran·, Aya ta nu dipikən· ku sakiliḥ, kəsit tuṁṅi diturutan·, pituAḥhən·nana, hantə deK mənaṁ
+<lb n="4"/>ṅənaḥ basa ñatu basa ṅinum·, di haR̥pən· saṁ pandita, Ahanaprəmadasvate ṅaran·, Aya ta nu dipikən· ku sakiliḥ, kəsit tuṁṅi diturutan·, pituAḥhən·nana, hantə dek· mənaṁ
 
 <!-- DSCF8783 -->
 <pb n="10v"/>
 <fw type="pageNum" place="left margin" n="10v"><num value="9">9</num></fw>
-<lb n="1"/>minaṁ mitinəṁkən· maneḥ, dəṁ hantə deK ñyaṙ na pirampes·sən·nana, nihan· sinaṁguḥ pañca Iyatna ṅaranya, <num>5</num>, <g type="symbol">Ø</g>, nihan· sinaṁguḥ cataṙ Upay·ya ṅaranya, Aṙtanya, nihan·, AlekiƏm· sitəm· gə
+<lb n="1"/>minaṁ mitinəṁkən· maneḥ, dəṁ hantə dek· ñyaṙ na pirampes·sən·nana, nihan· sinaṁguḥ pañca Iyatna ṅaranya, <num>5</num>, <g type="symbol">Ø</g>, nihan· sinaṁguḥ cataṙ Upay·ya ṅaranya, Aṙtanya, nihan·, AlekiƏm· sitəm· gə
 <lb n="2" break="no"/>təm· jrəbanəm· kadaranəm·, sudəm· palaharasiƏm·, naka2teḥgurumvateh<space type="binding-hole"/><g type="symbol">Ø</g>ka, Atekyəm· ṅaranya, hantə ṅənaḥ Uraṁ ñvaker tanəḥ, nulis-nulis· paduṁ, paṁluṁguhhan· sare
 <lb n="3"/>di haR̥pən· saṁ guru, sudəm· ṅaranya, hantə ṅənaḥ suməri sumaR̥mbhaḥ di haR̥pən· saṁ guru<space type="binding-hole"/>sañaraḥ ñyiṙ pikaUlinan·nanən· di saṁ pandita, di nu rye, gətəm· ṅaranya, hantə ṅiduṁ ṅavih, humaL̥
-<lb n="4" break="no"/>aṁ, maṁkaṅuni mikvanvakən· maneḥ bisa, prəña vijaKsana, di nu rye, jrabanəm· ṅaranya, hanta ṅənaḥ mikvanvakən· maneḥ hanaAṁ pvañva, Agəs· ma vəR̥ səbəḥ, di haR̥pən· saṁ pandita, maṁ
-
+<lb n="4" break="no"/>aṁ, maṁkaṅuni mikvanvakən· maneḥ bisa, prəña vijak·sana, di nu rye, jrabanəm· ṅaranya, hanta ṅənaḥ mikvanvakən· maneḥ hanaAṁ pvañva, Agəs· ma vəR̥ səbəḥ, di haR̥pən· saṁ pandita, maṁ
+<!-- ﻿[ jṛmbhaṇa ] [ jṛmbhaṇa ] m. f. n. causing to yawn Lit. Hariv. Lit. R. i , 56 , 7 Lit. BhP. iii , x 
+[ jṛmbhaṇa ] n. yawning Lit. Suśr. Lit. VarBṛS. Lit. BhP. v Lit. Vedântas. 
+stretching the limbs , slackness Lit. Ṛitus. Lit. Vet. 
+bursting open , blossoming Lit. Bhartṛ. i , 24.  -->
 <!-- DSCF8825-->
 <pb n="11r"/>
-<lb n="1" break="no"/>kaṅuni di nu rye, kadaranəm· ṅaranya, hantə ṅinaḥ Uraṁ ṅvagan· humaṙdəru, maṁkaṅuni kumuliAt·, di haR̥pən· <add place="below">nu</add> rye, sudəm· ṅaranya, hantə ṅənaḥ huṙra-huṙra, bvabvahvaṁṅan·, na gəI lemeK, palara
-<lb n="2" break="no"/>hasiƏm· ṅaranya, hantə ṅənaḥ bvagvaḥ, mupuliḥkən· bvabvagaAn· sakaliḥ, naka2teḥ<space type="binding-hole"/>ṅaranya, hantə ṅənaḥ rumagvadeḥ, na gəI lemeK, di haR̥pən· saṁ pandita, nihan· sinaṁguḥ catuṙUpa
+<lb n="1" break="no"/>kaṅuni di nu rye, kadaranəm· ṅaranya, hantə ṅinaḥ Uraṁ ṅvagan· humaṙdəru, maṁkaṅuni kumuliAt·, di haR̥pən· <add place="below">nu</add> rye, sudəm· ṅaranya, hantə ṅənaḥ huṙra-huṙra, bvabvahvaṁṅan·, na gəI lemek·, palara
+<lb n="2" break="no"/>hasiƏm· ṅaranya, hantə ṅənaḥ bvagvaḥ, mupuliḥkən· bvabvagaAn· sakaliḥ, naka2teḥ<space type="binding-hole"/>ṅaranya, hantə ṅənaḥ rumagvadeḥ, na gəI lemek·, di haR̥pən· saṁ pandita, nihan· sinaṁguḥ catuṙUpa
 <lb n="3" break="no"/>ya ṅaranya, kayatna-yatna saṁ sevaka daṙma, hayva pinin·tuhu, <g type="symbol">Ø</g>nihan· sinaṁguḥ<space type="binding-hole"/>pañcabyakta ṅaranya, silvakanya nihan·, selajanəm· suravile, panataṙga sudya cava, praya
 <lb n="4" break="no"/>gamanəm·, cegamasvacevamibaḥ, krəṙmavidu, cevayude, nakaL̥m·ma suprəgrahas·ta, <g type="symbol">Ø</g>ka, selajanəm· ṅaranya, ñapira ṅahantə-hantə, laman· lemek· matiṁtim
 <!-- Catur Upaya cf. RY 26.23, Wir 44.33 dāna, sāma, bheda, danda. -->
@@ -224,7 +227,7 @@ pĕjah ta ya muvah narendrasuta mantuk iṅ amara jinendra sātmaka.
 <!-- DSCF8782 -->
 <pb n="11v"/>
 <fw type="pageNum" place="left margin" n="11v"><num value="0">0</num></fw>
-<lb n="1"/>di haR̥pən· nu kvalvat·, suravile ṅaranya, ñapirakən· maṁṅuni lemeK matitim·, hantə make paṁṅabaKti, ka saṁ pandita, dəṁ hantə ṅənaḥ vədaK-vədaKkan·, kaAmbhə ku nu rye, A
+<lb n="1"/>di haR̥pən· nu kvalvat·, suravile ṅaranya, ñapirakən· maṁṅuni lemek· matitim·, hantə make paṁṅabak·ti, ka saṁ pandita, dəṁ hantə ṅənaḥ vədak·-vədak·kan·, kaAmbhə ku nu rye, A
 <lb n="2" break="no"/>svagataḥ kunaṁ, panataṙga ṅaranya, hantə ṅənaḥ ñusut:an· hutu, di masa gereṁ di ha<space type="binding-hole"/>R̥pən· nu rye, sudyicava ma ṅaranya, hantə ṅənaḥ Uraṁ niru-niru kaU<add place="below">l</add>inan· həm=pul· mirus·, praya
 <lb n="3"/>saṁ magama ta ma, hantə ṅənaḥ Uraṁ padəL̥-dəL̥ dəṁ saṁ hya kaliḥ, maṁka ṅuni padu na muka<space type="binding-hole"/>,padəL̥-dəL̥ bəṅət·, ka nu karolvat·, maṁkaṅuni mupuliḥkən· maneḥ ñatu ṅinum· di ha
 <lb n="4" break="no"/>R̥pən· nu rye, cevamasvateḥ ṅaranya, teka salaḥ dipihdip· dipiAṅəAṅən·, ka pada jan·ma<!-- aksara m terbentuk dari setengah m dan garis kiri tanda taling -->cevamibuḥ ṅaranya, gvace ruA, gvace tuAḥ, hamva nurut· pamagaḥha
@@ -232,37 +235,37 @@ pĕjah ta ya muvah narendrasuta mantuk iṅ amara jinendra sātmaka.
 <!-- DSCF8838 -->
 <pb n="12r"/>
 <lb n="1" break="no"/>n·, kaṙmavidu ṅaranya, kəsit· tuṁṅi hasəm bharuṅut·, ruṁsaṁ rusiṁ na pibudiƏn· jan·ma, cevayude ṅaranya, gvace ruA, gvace tuAḥna, gvace pupu<del rend="erasure">ca</del>na, sinaṁguḥ kanis·ṭāniṁ ja
-<lb n="2" break="no"/>n·ma, cevayude ṅaranya, suraṁ pragvajaK, bvagvaḥ ñvacvaO sabda pariAmbul· ka saka<space type="binding-hole"/>liḥ, danakaL̥m· ta ma ṅarana, hantə de ha<add place="below">A</add>t· karuña, heman· da pajanma, na Aṅənaṅən·
-<lb n="3"/>gəde kacəcəb·,suprigrəhasta ṅaranya, gəde nu dipikahayaṁ, dipilemeK AṅəAṅə<space type="binding-hole"/>n·, dibaAn· lemeK dimaṁke-make, gəs· ma hantə kasvaraṁ, nihan· sinaṁga pañcabyakta
-<lb n="4"/>ṅaranya, hayu pinin·tuhu Ika, <num>5</num>, <g type="symbol" subtype="circle">Ø</g>nihan·sinaṁguh catuṙpaṁṅabaKti ṅaranya, silvakanya nihan·, guru taliəm·, prəvaKsiAmən·, mahayanəm·, hyitis·ṭātidurba
+<lb n="2" break="no"/>n·ma, cevayude ṅaranya, suraṁ pragvajak·, bvagvaḥ ñvacvaO sabda pariAmbul· ka saka<space type="binding-hole"/>liḥ, danakaL̥m· ta ma ṅarana, hantə de ha<add place="below">A</add>t· karuña, heman· da pajanma, na Aṅənaṅən·
+<lb n="3"/>gəde kacəcəb·,suprigrəhasta ṅaranya, gəde nu dipikahayaṁ, dipilemek· AṅəAṅə<space type="binding-hole"/>n·, dibaAn· lemek· dimaṁke-make, gəs· ma hantə kasvaraṁ, nihan· sinaṁga pañcabyakta
+<lb n="4"/>ṅaranya, hayu pinin·tuhu Ika, <num>5</num>, <g type="symbol" subtype="tennisball">Ø</g>nihan·sinaṁguh catuṙpaṁṅabak·ti ṅaranya, silvakanya nihan·, guru taliəm·, prəvak·siAmən·, mahayanəm·, hyitis·ṭātidurba
 
 <!-- DSCF8795 -->
 <pb n="12v"/>
 <fw type="pageNum" place="left margin" n="12v"><num value="11">11</num></fw>
-<lb n="1" break="no"/>ge hinasaḥ besaḥ, gryi paprəṙnamyaset, <g type="symbol" subtype="symbol">Ø</g>ka, gurutayəm· ṅaranya, hantə ṅənaḥ gəra-gəra lemek· matitim· di haR̥pən· saṁ pandita, prəvaksyi ma ṅaranya, hantə ṅənaḥ micareK karam·
+<lb n="1" break="no"/>ge hinasaḥ besaḥ, gryi paprəṙnamyaset, <g type="symbol" subtype="symbol">Ø</g>ka, gurutayəm· ṅaranya, hantə ṅənaḥ gəra-gəra lemek· matitim· di haR̥pən· saṁ pandita, prəvaksyi ma ṅaranya, hantə ṅənaḥ micarek· karam·
 <lb n="2" break="no"/>pesan· di haR̥pən· saṁ pandita, sañaraḥ di nu rye, maṁṅuni Iduṁ bapa paṁguruAn·, maha<space type="binding-hole"/>yanəm· ṅaranya, teka lipi mitinəṁkən· maneḥ, hya trisṭānata ṅaranya, hantə ṅənaḥ Uraṁ tata
-<lb n="3" break="no"/>p· laṁguK ka nu ka2lvat·, tiduṙbagehinasaḥbesaḥ ṅaranya, teka lipi-lupu<space type="binding-hole"/>di nu haR̥p· hantə kapitinəṁ na pirampesən, griApaprəṙnamyiset· ṅaranya, ṅamaṁke maṁk
-<lb n="4" break="no"/>e deK bəhaṙ vaya-vaya, dibvaga hulun kuriṁ kav(u)la vnaṁ-vnaṁ, gəs· ma hantə kasvaraṁ ya prənamyiset ṅaranya, nihan· sinaṁguḥ cataṙpaṁṅabaKti ṅaranya,liṁ saṁ pandita, <num>5</num>, <g type="symbol" subtype="circle">Ø</g>, nihan·
+<lb n="3" break="no"/>p· laṁguk· ka nu ka2lvat·, tiduṙbagehinasaḥbesaḥ ṅaranya, teka lipi-lupu<space type="binding-hole"/>di nu haR̥p· hantə kapitinəṁ na pirampesən, griApaprəṙnamyiset· ṅaranya, ṅamaṁke maṁk
+<lb n="4" break="no"/>e dek· bəhaṙ vaya-vaya, dibvaga hulun kuriṁ kav(u)la vnaṁ-vnaṁ, gəs· ma hantə kasvaraṁ ya prənamyiset ṅaranya, nihan· sinaṁguḥ cataṙpaṁṅabak·ti ṅaranya,liṁ saṁ pandita, <num>5</num>, <g type="symbol" subtype="tennisball">Ø</g>, nihan·
 
 
 <!-- DSCF8837 -->
 <pb n="13r"/>
-<lb n="1"/>sinaṁguḥ pañcaprəyana ṅaranya, silvakanya nihan·, hinavakyi masiharu pañcagrəhaste, gurusaṁgasanəm· prətəm· grəhaste namanəmte<!-- taling position below m -->, <g type="symbol" subtype="circle">Ø</g>, ka, hinavakyi ṅaranya, hantə ṅənaḥ Uraṁ micarek na ram=pes·<!-- taling di bawah m=p -->
-<lb n="2"/>ṅavuruK di haR̥pən· nu kvalvat·, siṁharupacagrəhaste, ṅaranya, hantə ṅənaḥ Uraṁ kajə<space type="binding-hole"/>Əṁ puduṁ tə suka, ku nu kvalvat, gurusaṁgasanəm·, prətanəm· ṅaranya, hantə ṅənaḥ Uraṁ gəraḥ bijaḥ su
-<lb n="3" break="no"/>ka grəjita, lamun· kasam·pak <!-- note: not use ligature m=p -->di jalan· basa Uraṁ ṅalasan· ṅala kayu ṅala daUn·<space type="binding-hole"/>, diña Uraṁ ṅadukaK teka kasam·pak· ku saṁ pandita, maṁkaṅuni pahəla-həla L̥m=paṁ, teka R̥jəṁ
-<lb n="4"/>maṁka dinapaK maya saṁ matuha, tə ṅənaḥ Uraṁ, prətanəm· ṅaranya, hantə ṅənaḥ ṅam·bəan· tadaḥhən· saṁ guru, maṁkaṅuni make papakaraṁṅan· saṁ pandita, ṅala savenan· ṅala tuda, <g type="symbol" subtype="circle">Ø</g>grəha
+<lb n="1"/>sinaṁguḥ pañcaprəyana ṅaranya, silvakanya nihan·, hinavakyi masiharu pañcagrəhaste, gurusaṁgasanəm· prətəm· grəhaste namanəmte<!-- taling position below m -->, <g type="symbol" subtype="tennisball">Ø</g>, ka, hinavakyi ṅaranya, hantə ṅənaḥ Uraṁ micarek na ram=pes·<!-- taling di bawah m=p -->
+<lb n="2"/>ṅavuruk· di haR̥pən· nu kvalvat·, siṁharupacagrəhaste, ṅaranya, hantə ṅənaḥ Uraṁ kajə<space type="binding-hole"/>Əṁ puduṁ tə suka, ku nu kvalvat, gurusaṁgasanəm·, prətanəm· ṅaranya, hantə ṅənaḥ Uraṁ gəraḥ bijaḥ su
+<lb n="3" break="no"/>ka grəjita, lamun· kasam·pak <!-- note: not use ligature m=p -->di jalan· basa Uraṁ ṅalasan· ṅala kayu ṅala daUn·<space type="binding-hole"/>, diña Uraṁ ṅadukak· teka kasam·pak· ku saṁ pandita, maṁkaṅuni pahəla-həla L̥m=paṁ, teka R̥jəṁ
+<lb n="4"/>maṁka dinapak· maya saṁ matuha, tə ṅənaḥ Uraṁ, prətanəm· ṅaranya, hantə ṅənaḥ ṅam·bəan· tadaḥhən· saṁ guru, maṁkaṅuni make papakaraṁṅan· saṁ pandita, ṅala savenan· ṅala tuda, <g type="symbol" subtype="tennisball">Ø</g>grəha
 
 <!-- DSCF8794 -->
 <pb n="13v"/>
 <fw type="pageNum" place="left margin" n="13v"><num value="12">12</num></fw>
 <lb n="1" break="no"/>s·te namaniṁma:te<!-- note long sign --> ṅaranya, hantə ṅənaḥ Uraṁ ñəbut· ṅaran· Abu Ayaḥ, ṅuni paṁguruAn·, maṁkaṅuni na matuha, sañaraḥ ṅaran· saṁ prəbu rama R̥si disi tarahan·, nihan· sinaṁguḥ pañcaI
-<lb n="2" break="no"/>yatna ṅaranya, saṁ pandita,<num value="5">5</num>,<g type="symbol" subtype="circle">Ø</g>, nihan· sinaṁguḥ tributa ṅaranya, byaktanya nihan·, hala<space type="binding-hole"/> tuməmu halanya, vilut· tuməmu vilut·nya, duka tumimu dukanya, ka, hala ṅaranya, gvace pisam·
-<lb n="3" break="no"/>paKkən·nana, ja gvace nu dipiguna, belvat pisampaKkən·nana, ja belvat· nu dipiguna<space type="binding-hole"/>,duka ṅaran·niṁ risi, risi pisampaKkən·nana, ja risi nu dipiguna, nihan· sinaṁgu, tributa ṅara
-<lb n="4" break="no"/>nya, kayatnakən· saṁ sevaka daṙma, hayva pinin·tuhu Ika, <g type="symbol" subtype="circle">Ø</g>, nihan· sinaṁguḥ cataṙpasan·ta ṅaranya, byaktanya nihan· cakrajalakuna, cakrajalapa<add place="below">K</add>sa, cakrasabirana, cakrataraṁgabahu
+<lb n="2" break="no"/>yatna ṅaranya, saṁ pandita,<num value="5">5</num>,<g type="symbol" subtype="tennisball">Ø</g>, nihan· sinaṁguḥ tributa ṅaranya, byaktanya nihan·, hala<space type="binding-hole"/> tuməmu halanya, vilut· tuməmu vilut·nya, duka tumimu dukanya, ka, hala ṅaranya, gvace pisam·
+<lb n="3" break="no"/>pak·kən·nana, ja gvace nu dipiguna, belvat pisampak·kən·nana, ja belvat· nu dipiguna<space type="binding-hole"/>,duka ṅaran·niṁ risi, risi pisampak·kən·nana, ja risi nu dipiguna, nihan· sinaṁgu, tributa ṅara
+<lb n="4" break="no"/>nya, kayatnakən· saṁ sevaka daṙma, hayva pinin·tuhu Ika, <g type="symbol" subtype="tennisball">Ø</g>, nihan· sinaṁguḥ cataṙpasan·ta ṅaranya, byaktanya nihan· cakrajalakuna, cakrajalapa<add place="below">k·</add>sa, cakrasabirana, cakrataraṁgabahu
 
 <!-- DSCF8836 -->
 <pb n="14r"/>
-<lb n="1"/>cakrajalakuna, ma ṅaranya matapvaEḥ <add place="below">pa</add>mahalana kaṁ sarira, lamuṙ pecaK bəlas· sakit· mata, buta lva2ṁṅən·, mata kvatvakən· hulap·, cakrajalapaKsa ma caI, mahalana ka sarira, gumigil·
+<lb n="1"/>cakrajalakuna, ma ṅaranya matapvaEḥ <add place="below">pa</add>mahalana kaṁ sarira, lamuṙ pecak· bəlas· sakit· mata, buta lva2ṁṅən·, mata kvatvakən· hulap·, cakrajalapak·sa ma caI, mahalana ka sarira, gumigil·
 <lb n="2"/>panas· tiris·, cakrasabirana ma, ṅarana Aṅən·, mahalana ma kaṁ sarira, beAṁ<space type="binding-hole"/>galigata, pipisis·san·, siṁ <add place="below">sa</add>vattək· kasakit· di kulit·, cakrataraṁgabaḥhu ma
 <lb n="3"/>gunuṁ ṅarana, maḥhalana kasarira ma, riət hulu, ñəri bətəṁ, mədu kavayaAn·, sakvaEḥ sakit· di jə<unclear>2</unclear> bətəṁ, nihan· sinaguḥ catuṙpasan·ta ṅaranya, kayatnaknə saṁ se
 <lb n="4"/>vaka daṙma, hayva ri rahasye, <g type="symbol">Ø</g> nihan· sinaṁguḥ pañcakapataka ṅaranya, byaktanya nihan· duka saṁka riṁ buta, duka saṁka riṁ devata, duka saṁka riṁ tribvana lvaka, duka kunaṁ tribva
@@ -270,50 +273,54 @@ pĕjah ta ya muvah narendrasuta mantuk iṅ amara jinendra sātmaka.
 <!-- DSCF8793 -->
 <pb n="14v"/>
 <fw type="pageNum" place="left margin" n="14v"><num value="13">13</num></fw>
-<lb n="1" break="no"/>na, duka saṁka riṁ buta ma ṅaranya, paEḥ disantva Oray·, dipanaḥ gəlap·, disaṁgut· buhaya, katigaṁ paṁpuṁ, di2n·tva maUṁ, paEḥ diprəraṁ, dihadaṁ dipuUK, paEḥ rag·rag sakvaEḥ
+<lb n="1" break="no"/>na, duka saṁka riṁ buta ma ṅaranya, paEḥ disantva Oray·, dipanaḥ gəlap·, disaṁgut· buhaya, katigaṁ paṁpuṁ, di2n·tva maUṁ, paEḥ diprəraṁ, dihadaṁ dipuUk·, paEḥ rag·rag sakvaEḥ
 <lb n="2" break="no"/>niṁ bajra di pə<add place="below">ra</add>ṁṅan, ya duka saṁka riṁ buta ṅaranya, duka saka riṁ devata ma ṅaranya, ta<space type="binding-hole"/>jam· bətəṁ sakət·nirisan·, riAt·<!-- variant t? --> hulu, saki mata, ja2ṁṅən· subilaṁṅən·, buya
-<lb n="3" break="no"/>n· mədu panas· tiris·, ya duka saṁka riṁ devata ṅaranya, duka saṁka riṁ sarira ma, pe<space type="binding-hole"/>caK beṁṅva svam·beṁ, buta tuli, beAṁ rumpuṁ tugəl·, ya duka saṁka riṁ sarira ṅaranya, duka
-<lb n="4"/>kunaṁ tribvana ma, nu savatəK kapataka di bvana, Ini byaktana ma, nu kəna ku na kapapaan·, di saṁ prəbu rama R̥si, disi mvaṁ taraḥhan·, jadi kala kaliyuga, Ika vvaIt· papa kale
+<lb n="3" break="no"/>n· mədu panas· tiris·, ya duka saṁka riṁ devata ṅaranya, duka saṁka riṁ sarira ma, pe<space type="binding-hole"/>cak· beṁṅva svam·beṁ, buta tuli, beAṁ rumpuṁ tugəl·, ya duka saṁka riṁ sarira ṅaranya, duka
+<lb n="4"/>kunaṁ tribvana ma, nu savatək· kapataka di bvana, Ini byaktana ma, nu kəna ku na kapapaan·, di saṁ prəbu rama R̥si, disi mvaṁ taraḥhan·, jadi kala kaliyuga, Ika vvaIt· papa kale
 
 <!-- DSCF8835 -->
 <pb n="15r"/>
-<lb n="1"/>ja di na saṁ hya kala, Asu si jam·prvaṁ si karavəlaṁ, ja di kavaḥ papasaṁṅan·, vəlaḥ taji sula vəsi, dilambhuṙ si patuduḥhun·, cukaṁ cuət kalapa bajra, lataK si balagadama, cataṁ si tumaṁgəḥn·, ba
+<lb n="1"/>ja di na saṁ hya kala, Asu si jam·prvaṁ si karavəlaṁ, ja di kavaḥ papasaṁṅan·, vəlaḥ taji sula vəsi, dilambhuṙ si patuduḥhun·, cukaṁ cuət kalapa bajra, latak· si balagadama, cataṁ si tumaṁgəḥn·, ba
 <lb n="2" break="no"/>tu kacakup·, rayaṁ rayaṁ si prəcakala si prəcakali, si beda bañcana, si rekaguna<space type="binding-hole"></space>saṁ vəsiguna, saṁ pataka guna, saṁ sip·taguna, saṁ kumara, ka, Ini byaktanya ma, samyaguna
-<lb n="3"/>ma, na paday· gəlaṁ, saṁ sip·taguna ma, paday· Omas, saṁ vəsiguna ma, paday·<space type="binding-hole"></space>bəsi, saṅ patakaguna ma, pamadəK, saṁ mulagana ma, pahuma, saṁ sip·ta ma, paṅudaḥhagyi
-<lb n="1" break="no"/><add place="below">A</add>n·, guna ma na həm=pul·, saṁ kumara ma, memen·, saṁ hya kala ma, patiK haji, si jampvaṁ si karavilaṁ ma, barat· katiga, ta rayaṁ rayaṁ ma, nu tan paṅaran·, beda bañcana ma, pa
+<lb n="3"/>ma, na paday· gəlaṁ, saṁ sip·taguna ma, paday· Omas, saṁ vəsiguna ma, paday·<space type="binding-hole"></space>bəsi, saṅ patakaguna ma, pamadək·, saṁ mulagana ma, pahuma, saṁ sip·ta ma, paṅudaḥhagyi
+<lb n="1" break="no"/><add place="below">A</add>n·, guna ma na həm=pul·, saṁ kumara ma, memen·, saṁ hya kala ma, patik· haji, si jampvaṁ si karavilaṁ ma, barat· katiga, ta rayaṁ rayaṁ ma, nu tan paṅaran·, beda bañcana ma, pa
 
 <!-- DSCF8792 -->
 <pb n="15v"/>
 <fw type="pageNum" place="left margin" n="15v"><num value="14">14</num></fw>
-<lb n="1" break="no"/>dagaṁṅan·, təgal· malva ma, na <unclear>L̥</unclear>buḥ, salaKsilvañana ma na paṁgəR̥K, labuḥhan· bulan· ma na prəjala, vvaṁ papa ma nu bvabvatvaḥ, vvaṁ kalesa ma na dasa, si manareṁ ma, calagara, si manareka ma, na paṁ
+<lb n="1" break="no"/>dagaṁṅan·, təgal· malva ma, na <unclear>L̥</unclear>buḥ, salak·silvañana ma na paṁgəR̥k·, labuḥhan· bulan· ma na prəjala, vvaṁ papa ma nu bvabvatvaḥ, vvaṁ kalesa ma na dasa, si manareṁ ma, calagara, si manareka ma, na paṁ
 <lb n="2" break="no"/>ṅuraṁ, cataṁ si tumagən· ma, na parada, lambuṙ si patuduḥhan ma, na kasasa, cukaṁ cuƏt· ma, na paməƏṁ, kalabajra ma na pañadap·, latak<!-- cf.OJED {@latĕk@}¶ mud, bog --> si balagada <!-- {@lagĕḍu@}¶ mud -->ma, na pañavaḥ, vəlah taji ma
 <lb n="3"/>na paṁṅalas·, batu kacakup· ma, na paṁṅaviḥn·, na kavaḥ ma Inya na paməñəp·, na<space type="binding-hole"></space>sye ma na paṅejva, suluḥna ma na pa<del rend="erasure">ca</del>nutu, sinana ma na tuṁgu dapuṙ, paṅecek ma na haR̥p· catra, caIna
-<lb n="4"/>ma nu puraḥ ṅala pimadiƏn·, ruhakna pañapu, Əsəna ma pakvatvaKkan· paceleṁṅan· na paṁItiKkan, Ə<add place="below">nu</add>mereAn· ma paṁṅaṅvan·, nuṁguAn· situ,nuguAn· taman·, sakvaEḥ
+<lb n="4"/>ma nu puraḥ ṅala pimadiƏn·, ruhakna pañapu, Əsəna ma pakvatvak·kan· paceleṁṅan· na paṁItik·kan, Ə<add place="below">nu</add>mereAn· ma paṁṅaṅvan·, nuṁguAn· situ,nuguAn· taman·, sakvaEḥ
 
 <!--DSCF8834  -->
 <pb n="16r"/>
 <lb n="1"/>nuguAn· cvacvaOAn·, kapihulun· hyi, kapihalaṁ, dipisuku dipitaṁṅan·, mva vasa di hurip·nya, di bənaṁna, ya duka kunaṁ tribvana, ṅaranya, ya ta duka kunaṁ tribvanalvaka ṅaranya, kahuru
-<lb n="2"/>An· dayəḥ, buruṁ tahun·, Eleḥ ku sasalad·, larukaṁkaṁ salaḥ masa, saṙba pa<space type="binding-hole"/>la tan· pavvaḥ, saṙba satva AñaraK,ya ta duka kunaṁ tribvanalvaka ṅaranya ma, ṅyabuku, U,
-<lb n="3"/>sa, A, nihan· sinaṁguḥ pañcakapataka ṅaranya liṁ saṁ pandita, <num value="5">5</num>,<g type="symbol" subtype="circle">Ø</g>, nihan· k<space type="binding-hole"/>eṅəttaknə muvaḥ, saṁ sevaka daṙma, hana pañcatraya ṅaranyi, Ini byaktana, paksa-paksi
-<lb n="4"/>saṙpa mena, pepelika, paKsu<!-- paśu --> ma ṅaranya, savatək satva di yəḥ, pak·si ma ṅaranya, savatək satva di sisi, saṙpa ma ṅaranya, savatəK nu napaK haR̥guna, mina ṅaranya, savatə
+<lb n="2"/>An· dayəḥ, buruṁ tahun·, Eleḥ ku sasalad·, larukaṁkaṁ salaḥ masa, saṙba pa<space type="binding-hole"/>la tan· pavvaḥ, saṙba satva Añarak·,ya ta duka kunaṁ tribvanalvaka ṅaranya ma, ṅyabuku, U,
+<lb n="3"/>sa, A, nihan· sinaṁguḥ pañcakapataka ṅaranya liṁ saṁ pandita, <num value="5">5</num>,<g type="symbol" subtype="tennisball">Ø</g>, nihan· k<space type="binding-hole"/>eṅəttaknə muvaḥ, saṁ sevaka daṙma, hana pañcatraya ṅaranyi, Ini byaktana, paksa-paksi
+<lb n="4"/>saṙpa mena, pepelika, pak·su<!-- paśu --> ma ṅaranya, savatək satva di yəḥ, pak·si ma ṅaranya, savatək satva di sisi, saṙpa ma ṅaranya, savatək· nu napak· haR̥guna, mina ṅaranya, savatə
 
 <!-- DSCF8791 -->
 <pb n="16v"/>
 <fw type="pageNum" place="left margin" n="16v"><num value="15">15</num></fw>
-<lb n="1" break="no"/>k· satva di caI, lepelika ṅaranya, savatək nu mava caṁkaṁ, nu kumarayap· hantə ñaḥhvaan·, lavas·nya, sakeṁ raka, sevu satus taḥhun·, nihan· sinaṁguḥ pañcatriyaK ṅaranya<g type="symbol" subtype="circle">Ø</g>nihan· mu
-<lb n="2" break="no"/>vaḥ keṅət·takən·na, hana ya catuṙmula ṅaranya, Ini ktan<supplied reason="lost" evidence="paralel">a,</supplied> mantaja,<del rend="erasure">da</del>, Urija, ba<space type="binding-hole"/>gaja, mantaja ṅaranya, nu savatəK bijil· ti panvan·, Urija, ṅa, nu savatəK bjəl· ti suṅu
-<lb n="3" break="no"/>t· payuña ṅaranya, nu savatəK bjal· ti tubuṁ, bagaja ṅaranya nu savatəK bjal<space type="binding-hole"/>· ti suklasvanita, lavas·nya sakeṁ raka, satus taḥhun·, nihan· sinaṁguḥ catuṙmula ṅara
-<lb n="4" break="no"/>nya, liṁ saṁ pandita,<g type="symbol" subtype="circle">Ø</g>, nihan· sinaṁguḥ catuṙviryi ṅa, ka, suka ma ṅaranya, Ini byaktana, dipake gəraḥ sugiḥ ma dipake bəhaṙ,suka ma gəraḥ,ṅa, dipake kadataṁṅan·, virya ma ṅaranya
-Fol. 16v
-1.	dipakemeremavəḥ,kanujauḥ,kanudəkət·,kakulakadaṁbaraya,yatasinaṁguḥcaturvirya,ṅa,kayatnakən·ika,hayvapinin·tuhusaṁsevakadaṙmaØnihan·takaL̥pasən·
-2.	nana,ṅa,hanatasaṁhyanəṙmalacatuṙkaL̥paṅaranya,inibyaktana,upamanajan·matani,puṙna,svadanta,tanimaṅaranya,pakadibuatñadapmasaṁñavaṙra,cvacvaOan·,pəpəlak·
-3.	kan·,yataniṅaranya,puṙnaṅaranya,hantədibvagakahivaṁṅan·,kativasan·,hantəditvaḥcarapuriḥ,yapuṙnaṅarana,sudatamaṅarana,hantəkatəbuskapihalaṁtəguhutaṁ,yasu
-4.	dan·ta,ṅa,lastaremaṅarana,jan·mabanua,han·tədibvagakasakit·,hantədibvagakabeṁkeṁ,yalastareṅaranya,nihan·sinaṁguḥcatuṙkaL̥paṅaranya,liṁsaṁpanditasaki-
-Fol. 16r
-1.	tunakecakənən·saṁsevakadaṙma/……··o/inimaiñanakatuhukənən·nudipajaṙtrikaya,nudipajaṙkən·puhun·niṁhayu,taṁkalniṁedahta,hanatasaṁhyatR̥kayamadalaparisudaṅaranya,liṁ
-[ga]
-2.	maḥhapantadita,triṅaranyatəlu,kayaṅaranyapamagəḥ,mandalaṅaranyasarira,sudamaṅaranaagəs·kañahvaanØtuhutrikayaliṁsapandita,trikayaniṁlvakalavan·para,nədyəyasi
-3.	naṁguḥtrikayaliṁsaṁpandita,nihansu/silvarkə/kunyi,kadyiganiṁmanik·kanaṙga,lavan·manik·savestra,lavan·mas·kanakajatirupa,nihan·saṁhyatriraḥhayuṅaranya,nihan
+<lb n="1" break="no"/>k· satva di caI, lepelika ṅaranya, savatək nu mava caṁkaṁ, nu kumarayap· hantə ñaḥhvaan·, lavas·nya, sakeṁ raka, sevu satus taḥhun·, nihan· sinaṁguḥ pañcatriyak· ṅaranya<g type="symbol" subtype="tennisball">Ø</g>nihan· mu
+<lb n="2" break="no"/>vaḥ keṅət·takən·na, hana ya catuṙmula ṅaranya, Ini ktan<supplied reason="lost" evidence="paralel">a,</supplied> mantaja,<del rend="erasure">da</del>, Urija, ba<space type="binding-hole"/>gaja, mantaja ṅaranya, nu savatək· bijil· ti panvan·, Urija, ṅa, nu savatək· bjəl· ti suṅu
+<lb n="3" break="no"/>t· payuña ṅaranya, nu savatək· bjal· ti tubuṁ, bagaja ṅaranya nu savatək· bjal<space type="binding-hole"/>· ti suklasvanita, lavas·nya sakeṁ raka, satus taḥhun·, nihan· sinaṁguḥ catuṙmula ṅara
+<lb n="4" break="no"/>nya, liṁ saṁ pandita,<g type="symbol" subtype="tennisball">Ø</g>, nihan· sinaṁguḥ catuṙviryi ṅa, ka, suka ma ṅaranya, Ini byaktana, dipake gəraḥ sugiḥ ma dipake bəhaṙ,suka ma gəraḥ,ṅa, dipake kadataṁṅan·, virya ma ṅaranya
+ 
+ <!-- DSCF8833 -->
+<pb n="17r"/>
+<lb n="1"/>dipake mere mavəḥ, ka nu jaUḥ, ka nu dəkət·, ka kulakadaṁ baraya, ya ta sinaṁguḥ catuṙvirya, ṅa, kayatnakən:a Ika, hayva pinin·tuhu saṁ sevaka daṙma, <g type="symbol" subtype="tennisball">Ø</g> nihan· ta kaL̥pasən·
+<lb n="2" break="no"/>nana, ṅa, hana ta saṁ hya nəṙmala catuṙkaL̥pa ṅaranya, Ini byaktana, Upamana janma ta<space type="binding-hole"/>ni, puṙna, svadanta, tani ma ṅaranya, paka dibuat ñadap masaṁ ñavaṙra, cvacvaOAn·, pəpəlak·
+<lb n="3" break="no"/>kan·, ya tani ṅaranya, puṙna ṅaranya, hantə dibvaga kahivaṁṅan·, kativasan·, hantə di<space type="binding-hole"/>tvaḥ cara puriḥ, ya puṙna ṅarana, sudata ma ṅarana, hantə katəbus kapihalaṁ, tə guhutaṁ, ya su
+<lb n="4" break="no"/>dan·ta, ṅa, lastare ma ṅarana, jan·ma banuA, han·tə dibvaga kasakit·, hantə dibvaga kabeṁkeṁ, ya lastare ṅaranya, nihan· sinaṁguḥ catuṙkaL̥pa ṅaranya, liṁ saṁ pandita, saki
+
+<!-- DSCF8790 -->
+<pb n="17v"/>
+<fw type="pageNum" place="left margin" n="17v"><num value="16">16</num></fw>
+<lb n="1" break="no"/>tu na kecakənən· saṁ sevaka daṙma, <g type="symbol">XXX</g><!-- How to deal with this kind of symbol? -->, Ini ma Iña na katuhu<gap reason="lost" extent="1" unit="character"/>ənən· nu dipajaṙ trikaya, nu dipajaṙkən· puhun·niṁ hayu, taṁkalniṁ Edah ta, hana ta saṁ hya trəkaya madala parisuda ṅaranya, liṁ
+<lb n="2"/>maḥha pantadita, tri ṅaranya təlu, kaya ṅaranya pamagəḥ, mandala ṅaranya sarira, suda ma ṅarana <space type="binding-hole"/> Agəs· kañahvaAn·, <g type="symbol" subtype="tennisball">Ø</g>, tuhu trikaya liṁ sa pandita, trikayaniṁ lvaka lavan· para, nədyə ya si
+<lb n="3" break="no"/>	naṁguḥtrikayaliṁsaṁpandita,nihansu/silvarkə/kunyi,kadyiganiṁmanik·kanaṙga,lavan·manik·savestra,lavan·mas·kanakajatirupa,nihan·saṁhyatriraḥhayuṅaranya,nihan
 [u]
 4.	·lvaṙnya,hanañanapasanta,sabdapasanta,budipasanta,yasinaṁguḥulaḥraḥhayu,inibyaktanaulaḥraḥhayu,umun·bakti,atvaṁatəaṁ,takutjabat·,kvacvap·beteOḥ,e
 Fol. 15v
@@ -456,7 +463,7 @@ Fol. 31v
 3.	katəpət·,ga,panatabna,L̥,mvaktajiva,da,acityi,ṅa,icaluṅ,mamikul·,ba,kayumagəṁØinipañcamahabuta,rur,pañcaganti,rur,pañcamraga,rur,samaṁkanakayatnaknəsaṁse
 4.	vakadaṙma,Ønihansanditəbəy·saṁpandita,maṅucapvukusandiṅaranya,situturyapinaḥkasipat·ikaṁbvana,lavan·nikaṁsarvvajama,yatamataṁṅyan·tan·salaḥtuvuḥtansalaḥ
 Fol. 32r
-1.	rasaikaṁratkabeḥ,abənəṙtumirubapaibunya,mvaṁvvattansabvanyaikaṁsaṙvvajama,kabeh,vvaṅmanaKvvaṅ,satvamanaKsatva,gaØnihan·sinaṁguḥtapaṅaranya,sililaṁ,aparanmataṁṅyan·
+1.	rasaikaṁratkabeḥ,abənəṙtumirubapaibunya,mvaṁvvattansabvanyaikaṁsaṙvvajama,kabeh,vvaṅmanak·vvaṅ,satvamanak·satva,gaØnihan·sinaṁguḥtapaṅaranya,sililaṁ,aparanmataṁṅyan·
 2.	silila,ṅa,nihan·lvarnya,niṅət·niramakadrabyabvanalavan·sarira,laØmaṁkanatekaṁluṁguḥ,apinaḥkarasanya,sipagəḥ,tuhukarisaṁmanvan·mapagəḥrivra,nirasakalaniskala,apakapa-
 3.	gəḥhan·nikaṁsaṁmanvan·risakala,tannilumisesaakən·,ajimantrahuṁkarapadkara,niṅuveḥgəlaṙpuja,jampadampyə,taniluatakitamisesaakənanika,denitapabrata,yvaga
 4.	samadi,tan·kavacicadeniṁgunakabeḥ,nihan·kapagəḥhansaṁmanvan·risakala,nədyəkapagəḥhan·nikaṁsaṁmanvan·riniskala,hayvasiramahavvailanØmakanatekaṁpratyaksa,apapinaḥ
@@ -471,7 +478,7 @@ Fol. 33r
 1.	kaaməaməṅan·saṁhyadaṙma,nədyisinaṁguḥmaniksavestra,sakajaṙparipvarakaṅaranyaikaṅhdap·,apamaniksakajaṙnuvidəṅaranya,ikaṅtutuṙ,ndyəyamaniksavestrasakajaṙmahacintyaṅaranyasaṁmanvan·,yayasi
 2.	naṁguḥtigarahasyebasaṅaranya,tankapaṁguḥrahasyedisaṁpandita,denikaṁsevakadaṙma,ndyasinaṁguḥtigarahasye,bayusabdahdap·,ikaṁsinaṁguḥtigarahasye,tahamtigasada-
 3.	naṅarana,ka,apayasinaṁguḥtigarahasyeṅaranya,rimahapandita,aum·nihan·lvaṙnya,nyihdap·nyatutuṙ,nyasaṁmanvan·yekavvətniṁsəmbavaṅaranya,apabyaktanyi,ikavvatniṁsəmbavapvaṁkulun·,
-4.	nihan·drasdatairiya,kadyiganiṁpajut·,dilaḥlavan·teja,tugal·Kanikapvaṁkulun·,ikaṁdilaḥlavan·teja,taham·giḥtan·hanamaṁkanadududilaḥduduteja,apuy·,atasiḥsaṁkaria-
+4.	nihan·drasdatairiya,kadyiganiṁpajut·,dilaḥlavan·teja,tugal·k·anikapvaṁkulun·,ikaṁdilaḥlavan·teja,taham·giḥtan·hanamaṁkanadududilaḥduduteja,apuy·,atasiḥsaṁkaria-
 Fol. 33v
 1.	puy·ikaṁdilaḥlavan·teja,niṁapuy·paranyapjəḥ,mu
 liḥha[L̥] riṁ saṁkanya,pəjaḥjatinya,apabyaktanya,pasaṁikaṁpañjut·muvaḥ, baṙtayamurug·aṅajəg·paR̥gajatinika,mjət·niṁkaṁ	dilaḥ,bjalniṁkaṁte
@@ -511,7 +518,7 @@ Fol. 41r
 2.	niṁtulis·,təbəy·saṁpandita,maṅucap·raḥhasye,puṙvvasaṁhyapramana,yenavraḥnyavak·nira,yatasaṁhyadaṙma,visesa,yataL̥pasnyasakeṁsarira,tan·pava
 3.	k·bayusabdahdap·,ṅuniveḥsunyatayaparamaṙtkalilaṁhnəṁnaravarana,yatasinaṁguḥdaṙmaligəṁhaneṁsarira,nityiksadumilaḥkumiñartan·kapadəman·rirahinakuL̥m·,lavansakalanaska
 [L̥]
-4.	la,tinvaNKkən·,vastusaṁpandita,nəṙsan·dehatakitaduhuvus·,pinaḥkarasanyarikapitiganiṁtulis·,kayatnayatnasaṁsevakadaṙma,liṁsaṁyvagisvara,Ønihan·sinaṁguḥkalakaR̥
+4.	la,tinvaNk·kən·,vastusaṁpandita,nəṙsan·dehatakitaduhuvus·,pinaḥkarasanyarikapitiganiṁtulis·,kayatnayatnasaṁsevakadaṙma,liṁsaṁyvagisvara,Ønihan·sinaṁguḥkalakaR̥
 
 Fol. 40v
 1.	pat·,ṅa,ka,hurip·,pati·,turubipari,ta,nihan·pinaḥkakahanannasaṁmanivan·risakalaniskalavastu,kunvannakən·saṁpandita,risaṁsevakadaṙma,sariraganal·ṅaranya,sipati,
