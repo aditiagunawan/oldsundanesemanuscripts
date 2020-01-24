@@ -54,9 +54,9 @@
   <facsimile>
     <graphic url="photograph of text or monument"/>
   </facsimile>
-  <text xml:lang="x-oldsun">
-    <body xml:lang="x-oldsun">
-      <div type="edition" xml:space="preserve" xml:lang="x-oldsun">
+  <text xml:lang="x-oldsun-Latn">
+    <body xml:lang="x-oldsun-Latn">
+      <div type="edition" xml:space="preserve" xml:lang="x-oldsun-Latn">
       <ab>
 
 <pb n="1v"/>
@@ -320,13 +320,13 @@ bursting open , blossoming Lit. Bhartṛ. i , 24.  -->
 <fw type="pageNum" place="left margin" n="17v"><num value="16">16</num></fw>
 <lb n="1" break="no"/>tu na kecakənən· saṁ sevaka daṙma, <g type="symbol">XXX</g><!-- How to deal with this kind of symbol? -->, Ini ma Iña na katuhu<gap reason="lost" extent="1" unit="character"/>ənən· nu dipajaṙ trikaya, nu dipajaṙkən· puhun·niṁ hayu, taṁkalniṁ Edah ta, hana ta saṁ hya trəkaya madala parisuda ṅaranya, liṁ
 <lb n="2"/>maḥha pantadita, tri ṅaranya təlu, kaya ṅaranya pamagəḥ, mandala ṅaranya sarira, suda ma ṅarana <space type="binding-hole"/> Agəs· kañahvaAn·, <g type="symbol" subtype="tennisball">Ø</g>, tuhu trikaya liṁ sa pandita, trikayaniṁ lvaka lavan· para, nədyə ya si
-<lb n="3" break="no"/>	naṁguḥtrikayaliṁsaṁpandita,nihansu/silvarkə/kunyi,kadyiganiṁmanik·kanaṙga,lavan·manik·savestra,lavan·mas·kanakajatirupa,nihan·saṁhyatriraḥhayuṅaranya,nihan
-[u]
-4.	·lvaṙnya,hanañanapasanta,sabdapasanta,budipasanta,yasinaṁguḥulaḥraḥhayu,inibyaktanaulaḥraḥhayu,umun·bakti,atvaṁatəaṁ,takutjabat·,kvacvap·beteOḥ,e
-Fol. 15v
-1.	met·imitrajən·L̥kən·,pakapR̥dana,yaulaḥraḥhayu,ṅa,sabdaraḥhayuma,saṙseḥsaneḥ,haat·heman·pesvak·karuña,ṅaL̥gətñacəp·,muk·puk·ṅulasṅalaaṁṅən·,sa
-2.	kvaeḥsabdakR̥ta,yasinaṁguḥsabdaraḥhayu,ṅa,ambək·raḥhayuṅaranya,liñiḥpirpircaanaḥtrah,L̥gaburuan·,pajaṁtajuṙ,gasmadipigunanabak·sadi,danadi,vastradi,ka-
-3.	nyedi,yacatuṙpunyi,ṅa,tiiñamahumənəṁbudi,heraṁtinəṁ,ciptalalagada,budiraḥhayu,digamanik·inisuḥhan·,kadibañudiron·sulaṅ,savetnahdipnarampes·ṅarana
+<lb n="3" break="no"/>naṁguḥ trikaya liṁ saṁ pandita, nihan <del>sa</del> lvar<del>ka</del>nyi, kadyiganiṁ manik· kanaṙga, lavan· ma<space type="binding-hole"/>nik· savesṭā, lavan· mas· kanaka jati rupa, nihan· saṁ hya triraḥhayu ṅaranya, nihan
+<lb n="4"/>· lvaṙnya, hana ñana pasanta, sabda pasanta, budi pasanta, ya sinaṁguḥ Ulaḥ raḥhayu, Ini byaktana Ulaḥ raḥhayu, Umun· bakti, Atvaṁ Atəaṁ, takut ja2t·, kvacvap· beteOḥ, E
+        
+<pb n="18r"/>
+<lb n="1" break="no"/>met· Imit· rajən· L̥kən·, paka prə<add place="below">da</add>na, ya Ulaḥ raḥhayu, ṅa, sabda raḥhayu ma, saṙseḥ saneḥ, haAt· heman· pesvak· karuña, ṅaL̥gət· ñacəp·, muk·puk· ṅulas ṅala Aṁṅən·, sa
+<lb n="2" break="no"/>kvaEḥ sabda krəta, ya sinaṁguḥ sabda raḥhayu, ṅa, Ambhək· raḥhayu ṅaranya, liñiḥ <space type="binding-hole"/> pirpir caA naḥtaṙḥ, L̥ga buruAn·, pajaṁ tajuṙ, gas ma dipigunana bak·sadi, danadi, vasṭādi, ka
+<lb n="3" break="no"/>nyedi, ya catuṙpunyi, ṅa, ti Iña ma humənəṁ budi, heraṁ tinəṁ, cipta l<unclear>o</unclear>gada, budi <space type="binding-hole"/>raḥhayu, diga manik· inisuḥhan·,kadibañudiron·sulaṅ,savetnahdipnarampes·ṅarana
 4.	yatasinaṁguḥtrikayaman·dalaparisudaṅaranya,liṁsaṁpandita,L̥,Øinicaraḥhayuṅaranya,silvakanyanihan·maspirak·kvamalahitən·,kaliṅanya,sabdatuhutəpət·
 Fol. 15r
 1.	bnəṙ,byaktapañcak·saṙra,pirak·tamaṅarana,ambak·krata,yvag·yaraḥhayu,kvamalatamaṅarana,gəinacaaṁpadaṁ,heraṁL̥galvagan·da,aṅənaṅəna,həniṁmaṅarana,caṁciṁsərisəmuimut·Sə
